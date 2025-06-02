@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RoyanAB</h1>
-<h3 align="center">A studuent</h3>
+<h3 align="center">A student</h3>
 
 - 🌱 I’m currently learning **Java and Kotlin**
 
