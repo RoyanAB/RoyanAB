@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm RoyanAB</h1>
-<h3 align="center">A stduent.</h3>
+<h3 align="center">A studuent</h3>
 
-- 🌱 I’m currently learning **Java and Kotlin.**
+- 🌱 I’m currently learning **Java and Kotlin**
 
 - 📫 How to reach me **2275950121@qq.com**
 
-- ⚡ Fun fact **I am lazy.**
+- ⚡ Fun fact **I am lazy**
 
   <h3 align="left">Github Stats:</h3>
 
