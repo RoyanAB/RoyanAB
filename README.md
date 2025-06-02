@@ -11,7 +11,7 @@
 
   
   ![RoyanAB's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyanAB&count_private=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyanAB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyanAB)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
